@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "'You're Doing it Wrong!' or How I Learned to Stop Worrying and Love Usability Testing"
+date:   2013-06-14 20:15:00
+categories: work
+---
+Every time I do any usability testing I feel that I’m a fraud. It's not that I don't believe that there isn't value in doing it. I love watching people use things that I have helped design. If the design is wrong, I'll fix it. Sure, I might sometimes grumble to myself that "they didn't really get it" for a bit afterwards but I'll move on. A reason to carry on designing stuff is a much greater pull than resting on one's laurels, however good that feels for a moment or two.
+
+The real reason I feel a fraud is that I'm an amateur. I talk too much during tests, give too much away, forget sometimes to ask open questions or respond to a question with a question. My set up is often laughably last minute. My own laptop, a spare monitor, whatever space I can make use of, sometimes a busy work environment with lots of distractions. A little UX professional in a white lab coat hovers over my shoulder and mouths insistently "You're doing it wrong!".
+
+But you know what? I don't really mind. I'd much rather be doing something I enjoy under less than ideal circumstances than putting off doing anything because I was scared of how unprofessional it might seem. I can remember when the idea of doing any sort of user testing seemed like an impossible dream without an HCI qualification and a custom built lab. At least that was my impression and that impression was biased towards overestimating the difficulty of the task and underestimating my own capability. And I've found that most people think that way, even the professionals.
+
+I think the turning point for me happened about 4 years ago when I sat in on some testing in a usability lab for a design project I was working on. At the time, I was just starting to somewhat naively lead the UX work for the agency I was working for. I had admitted to the client that whilst we had plenty of design skills, we had no usability testing capability we could offer them. Hence another company was brought in to provide this service (and proceeded to try and nick the design work as well - not cool). So there I was in their smart looking lab, observing a testing session that was being facilitated by one of their qualified usability professionals.
+
+The participant was a London cabbie, a friendly, talkative guy as you would expect. He was being asked to book some cinema tickets using the designs the usability agency had mocked up for evaluation. I enjoyed listening to him explain how he he arranged cinema trips for his family and all the everyday logistics that involved.
+
+I felt a lot of empathy towards this guy so I was a bit surprised by how cold the facilitator was in their dealings with him. There was a lot of stuff the cabbie was telling them that I wanted to know more about. I understood that there was most likely a tightly defined scope for the evaluation and that the distance was probably no more than professional. In spite of that though, I still made up my mind then to do it differently if I got the chance.
+
+I was already a fan of [Mark Hurst](http://creativegood.com/about/mark/) and his [listening lab approach](http://goodexperience.com/blog/2003/10/four-words-to-improve-user-res.php). I like the insistence on customer empathy first and foremost. As an aside I've personally found that substituting the word "user" (or even "consumer" - ugh!) for "customer" has an immediate effect on the way you frame an activity. "Customer" implies an appropriate deference and respect towards the thoughts and opinions of others. Not that this won't be the case with "users". It's just that the neutrality of the term sometimes lends itself to thinking about user testing as just another deliverable.
+
+I had also been doing a bit of mental model research to inform IA work before I tried conducting my own usability tests. There is a table in [Indi Young's book on mental models](http://rosenfeldmedia.com/books/mental-models/) that does a great job of explaining the different types of user research.
+
+![User research techniques via Indi Young](http://farm3.staticflickr.com/2194/2159500714_25a9fc97df_o_d.png)
+
+It seems strange in hindsight but after I saw this I was able to revise my thinking about usability testing. I already liked the conversations I was able to have with people when doing research and I realised that's all user testing is as well - having a conversation with someone. You may be talking face to face rather than over the phone and the subject may be more specific like a design or a website you are both looking at but you are still having a conversation so just relax and get on with it, I told myself.
+
+Since I managed to hang up my usability testing hangups I've tried lots of different approaches. Remote, in-person, in the hallway, in the field, large screen, small screens. What I've realised is that there are so many different ways to do this stuff that it's foolish to rely on the opinions of others without trying it out yourself. There is no sense in worrying about technique either since there is nothing to screw up. Even a bad user test will tell you something even if it's only how to improve the next one.
+
+I don't want to leave you with the impression that I'm advocating doing everything yourself all the time. Definitely not. I've learned that for me, having the confidence to do my own testing is often essential to gain traction with stakeholders, to introduce the value of doing it to a wider audience. Also budgets. I know that sometimes I can often sneak testing in under the radar if I am willing to organise it myself.
+
+I'm a long way from being a great facilitator, and though I welcome the practice whenever I get the chance, there are always going to be times when you can really use the help. I would thoroughly recommend working with a user testing company when time and budgets allow. Provided that you are able to be clear about what is expected of them you will learn loads from watching them work.
+
+I've recently been working on a project that required usability testing to be performed in several countries at once and that's not something that you can hope to do without specialist help. As a result of working with local testing companies in Brazil, France and India, I've learnt important lessons about how to organise user research activity internationally, something I would never have found out on my own. The funny thing is that once you stop fretting about doing it right and embrace your unprofessionalism, the less like an amateur you feel.
